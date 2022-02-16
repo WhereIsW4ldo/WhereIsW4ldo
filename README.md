@@ -1,0 +1,1 @@
+- Hi I'm Waldo, I study industrial engeneering and am very interested in programming and electronics.
