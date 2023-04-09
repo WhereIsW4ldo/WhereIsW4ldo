@@ -3,4 +3,5 @@
 - Some projects of mine include (but are not limited to). 
     - A* pathfinding in Rust including GUI.
     - A JEE project as a backend project
+    - A little Rust multithreaded project for a simple calculator
  
